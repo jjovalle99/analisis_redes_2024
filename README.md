@@ -8,4 +8,4 @@
 
 | Entrega | Archivo                   |
 |---------|---------------------------|
-| Fase 1  | fase_1_proyecto.ipynb     |
+| Fase 1  | notebooks/fase_1_proyecto.ipynb     |
