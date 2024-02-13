@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "redes-proyecto"
+version = "0.1.0"
+description = ""
+authors = ["jjovalle99 <jj.ovalle@uniandes.edu.co>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.6"
+pandas = "^2.2.0"
+numpy = "^1.26.4"
+networkx = "^3.2.1"
+matplotlib = "^3.8.2"
+pyarrow = "^15.0.0"
+openpyxl = "^3.1.2"
+scipy = "^1.12.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
