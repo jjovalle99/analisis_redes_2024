@@ -9,3 +9,4 @@
 | Entrega | Archivo                   |
 |---------|---------------------------|
 | Fase 1  | notebooks/fase_1_proyecto.ipynb     |
+| Fase 2  | notebooks/fase_2_proyecto.ipynb     |
